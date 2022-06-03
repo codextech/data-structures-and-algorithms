@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-find-prime-number/01-find-prime-number.iml" filepath="$PROJECT_DIR$/01-find-prime-number/01-find-prime-number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-find-all-prime-numbers-till-nth/02-find-all-prime-numbers-till-nth.iml" filepath="$PROJECT_DIR$/02-find-all-prime-numbers-till-nth/02-find-all-prime-numbers-till-nth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA_Prep.iml" filepath="$PROJECT_DIR$/.idea/DSA_Prep.iml" />
+    </modules>
+  </component>
+</project>
